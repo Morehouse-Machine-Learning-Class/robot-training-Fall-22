@@ -1,7 +1,9 @@
 # CVAT Login Credentials For Super User
 
 username = admin
+
 password = root
+
 email = zachare.lofton@morehouse.edu
 
 ## How to Make New Super User
